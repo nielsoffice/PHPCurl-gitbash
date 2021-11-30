@@ -69,6 +69,6 @@ Secure route Authetication:
 curl -u username:password + URL
 ex.
 
-curl -u niel:123 https://jsonplaceholder.typicode.com/posts/8
-curl -u niel:123 -O https://jsonplaceholder.typicode.com/mockend.svg
-curl -u niel:123 --head https://jsonplaceholder.typicode.com/posts/8
+<br /> curl -u niel:123 https://jsonplaceholder.typicode.com/posts/8
+<br /> curl -u niel:123 -O https://jsonplaceholder.typicode.com/mockend.svg
+<br /> curl -u niel:123 --head https://jsonplaceholder.typicode.com/posts/8
